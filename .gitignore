@@ -1,0 +1,11 @@
+.sw?
+.*.sw?
+compiled
+.Z*.tex
+*.dvi
+*.aux
+*.log
+*~
+\#*
+.\#*
+.DS_Store
